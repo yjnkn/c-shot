@@ -1,0 +1,25 @@
+JSON_PNG1 = "main.png";
+JSON_PNG2 = "score.png";
+JSON_PNG3 = "ngarea.png";
+JSON_PNG4 = "bg.png";
+JSON_PNG5 = "ok.png";
+JSON_PNG6 = "ng.png";
+
+var json = [
+{"name":"color"
+,"catalog":
+    [{"canvas":JSON_PNG1
+     ,"hitmap":JSON_PNG2
+     ,"notmap":JSON_PNG3
+     }
+    ]
+},
+{"name":"comipo"
+,"catalog":
+    [{"canvas":JSON_PNG4
+     ,"hitmap":JSON_PNG5
+     ,"notmap":JSON_PNG6
+     }
+    ]
+},
+];
